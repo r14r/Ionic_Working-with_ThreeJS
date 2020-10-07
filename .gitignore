@@ -1,8 +1,5 @@
-**/.env.d
+**/.autoenv.d
+**/.autoenv
 
 node_modules
 www
-.env
-**/.env.d
-**/.env
-
